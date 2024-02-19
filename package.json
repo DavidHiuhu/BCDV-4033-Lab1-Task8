@@ -8,7 +8,7 @@
     "test:coverage": "jest --coverage",
     "test:watch": "jest --watch",
     "build": "echo 'Building!'",
-    "pre-commit": "npm run pre-commit",
+    "pre-commit": "npm run pre-commit"
   },
   "lint-staged": {
     "*.{js,jsx}": [
