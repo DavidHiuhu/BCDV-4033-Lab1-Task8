@@ -1,12 +1,13 @@
 {
-  "name": "task5",
+  "name": "task6",
   "version": "1.0.0",
   "description": "",
   "main": "calculator.js",
   "scripts": {
     "test": "jest",
     "test:coverage": "jest --coverage",
-    "test:watch": "jest --watch"
+    "test:watch": "jest --watch",
+    "build": "echo 'Building!'"
   },
   "keywords": [],
   "author": "",
