@@ -5,7 +5,7 @@ test('addition', () => {
 });
 
 test('subtraction', () => {
-  expect(subtract(18, 3)).toBe(21);
+  expect(subtract(18, 3)).toBe(15);
 });
 
 test('multiplication', () => {
