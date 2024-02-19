@@ -1,4 +1,4 @@
-name: Commit Tag
+name: PreCommit Hook
 
 on:
   push:
