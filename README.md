@@ -10,7 +10,7 @@ We use continuous integration to run unit tests automatically on each commit. Th
 
 Unit tests are triggered automatically on each commit to the `main` branch.
 
-If you want to run unit tests manually, you can use the following commit tag:
+If you want to run unit tests manually and tag the commit for reference, you can use the following commit tag:
 
 ```bash
-git commit -m "Run tests"
+git commit -m "Run tests with unit-tests tag"
